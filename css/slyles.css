@@ -1,0 +1,22 @@
+.section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.carousel-control-prev-icon{
+    background-image: url(../img/ico_arrow_01.svg);
+}
+.carousel-control-next-icon{
+background-image: url(../img/ico_arrow_02.svg);
+}
+
+.carousel-control-prev{
+    left:-75px;
+}
+.carousel-control-next{
+    right:-75px;
+}
+
+.col{
+    margin: 0 20px;
+}
